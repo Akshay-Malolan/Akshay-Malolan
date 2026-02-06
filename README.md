@@ -3,7 +3,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=Akshay-Malolan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats-eight-theta.vercel.app/?user=Akshay-Malolan&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Akshay-Malolan&theme=dark&hide_border=false)
 <br/>
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshay-Malolan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
