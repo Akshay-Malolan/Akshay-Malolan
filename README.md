@@ -21,6 +21,7 @@
 
 | Project | Description | Language | Status | Stars |
 |---------|-------------|----------|--------|-------|
+| **[heart-disease-platform](https://github.com/Akshay-Malolan/heart-disease-platform)** | Project | ![Code](https://img.shields.io/badge/Code-808080?style=flat-square&logo=python) | ![Public](https://img.shields.io/badge/Public-green?style=flat-square&logo=github) | ⭐ 0 |
 | **[ml-visualization-lib](https://github.com/Akshay-Malolan/ml-visualization-lib)** | Project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) | ![Public](https://img.shields.io/badge/Public-green?style=flat-square&logo=github) | ⭐ 0 |
 | **[CourseraIBM](https://github.com/Akshay-Malolan/CourseraIBM)** | Project | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=python) | ![Public](https://img.shields.io/badge/Public-green?style=flat-square&logo=github) | ⭐ 0 |
 | **[Weather-Sphere-Updated](https://github.com/Akshay-Malolan/Weather-Sphere-Updated)** | Project | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=python) | ![Private](https://img.shields.io/badge/Private-red?style=flat-square&logo=github) | ⭐ 0 |
@@ -28,7 +29,7 @@
 | **[AIDA](https://github.com/Akshay-Malolan/AIDA)** | Project | ![Code](https://img.shields.io/badge/Code-808080?style=flat-square&logo=python) | ![Private](https://img.shields.io/badge/Private-red?style=flat-square&logo=github) | ⭐ 0 |
 | **[Ak-sPrivate](https://github.com/Akshay-Malolan/Ak-sPrivate)** | Project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) | ![Private](https://img.shields.io/badge/Private-red?style=flat-square&logo=github) | ⭐ 0 |
 
-*🤖 Auto-updated: 2026-05-24 09:49 IST • 6 projects (2 public, 4 private)*
+*🤖 Auto-updated: 2026-05-24 19:20 IST • 7 projects (3 public, 4 private)*
 <!-- FEATURED_PROJECTS_END -->
 
 <!-- Last auto-update: 2026-02-06 18:52:55 IST -->
